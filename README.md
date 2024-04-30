@@ -7,7 +7,7 @@ Welcome to the Awesome Chocolate Dashboard! This Power BI dashboard provides com
 
 ## Live Dashboard
 
-You can access the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjg3YzJhYzUtMjYxNS00MGE5LWE1YjItOGY4MGY4MWMyMGEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
+You can access the live dashboard [here](https://app.powerbi.com/groups/me/reports/1b69f8bf-1634-4ddd-ade9-00a83b6d226c/ReportSection?experience=power-bi).
 
 ## Key Insights
 
